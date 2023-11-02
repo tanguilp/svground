@@ -35,8 +35,8 @@ Plus d'infos <a href="http://svground.fr/blog/cours-svg-presque-termine/">sur le
 L'auteur de ce site n'ayant plus le temps de continuer, voire de maintenir, ce site, toute aide
 est la bienvenue. Pour commencer, venez discuter avec nous sur jabber :
 <a href="xmpp:svgfr@chat.jabberfr.org?join">xmpp:svgfr@chat.jabberfr.org?join</a>. Vous trouverez
-aussi les sources du site sur le <a href="https://bitbucket.org/tangui/svground/">dépot mercurial
-sur bitbucket</a>. Ce site est sous licence libre. N'hésitez pas à envoyer vos patchs !
+aussi les sources du site sur le <a href="https://github.com/tanguilp/svground/">dépot git
+sur github</a>. Ce site est sous licence libre. N'hésitez pas à envoyer vos patchs !
 </p>
 
 <p>Tout investissement plus conséquent est également bienvenue. Les tutoriels XPath, Xslt et XForms
